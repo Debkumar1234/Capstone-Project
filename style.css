@@ -1,0 +1,95 @@
+.h_2 {
+    font-size: 2.5rem;
+    color: #66bfbf;
+    font-family: 'san-serif';
+    padding-bottom: 10px;
+}
+.logo{
+    font-family: 'Lemon', serif;
+}
+.name{
+    font-size: 5.625rem;
+    /* margin: 50px auto 0 auto; */
+    font-family: 'Arizonia', cursive;
+    color: rgb(83, 75, 195);
+}
+.dp{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%; 
+}
+.underline{
+    text-decoration: underline;
+    text-decoration-color:initial ;
+}
+.top-container{
+    background-color: rgb(98, 221, 255);
+}
+.top-bottom-container{
+    background-color: #e4f9f5;
+}
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 12%;
+}
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    top: 54%;
+}
+.profile{
+    background-color:#c9f9f0;
+}
+.intro{
+    width: 50%;
+    margin: auto;
+    font-family: 'Arizonia', cursive;;
+}
+p{
+    line-height: 2;
+}
+.h_3{
+    color: rgb(18, 69, 69);
+}
+.middle-container{
+    background-color:#acfff0 ;
+}
+.parent{
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    grid-template-rows: repeat(1, 1rf);
+    width: 50%;
+    margin: 100px auto 0 auto;
+    text-align: left;
+    row-gap: 2rem;
+}
+.chilli>img{
+    width: 50%;
+    margin-left: 25%;
+}
+.contact{
+    background-color: #dcfff9;
+} 
+.contact-text {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.bottom-container{
+    background-color: #66bfbf;
+    padding: 50px 0 20px;
+}
+a{
+    font-family:sans-serif;
+    margin: 10px 20px;
+}
+.footer-link{
+    color: #11999e;
+    text-decoration: none;
+}
+.copyright {
+    color: #eaf6f6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+    line-height: 2;
+}
